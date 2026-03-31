@@ -17,7 +17,7 @@ Seeker Season will run until 18th of May. We're looking to evolve and improve Se
 
 ## **A new and improved Library**
 
-![](https://raw.githubusercontent.com/igneous-labs/sanctum-app-library/main/src/assets/library_screenshot.jpg)
+![](https://raw.githubusercontent.com/igneous-labs/sanctum-app-library/main/src/assets/library_banner.jpg)
 
 The Library (the section of the app you're reading this in) got a significant upgrade this week. Content is now organized into sections, there are new articles to read, and we've published two deep dives: one on how Daily Rewards work, and one on the Library itself. If you've ever had questions about how the app works, this is the place to start.
 
