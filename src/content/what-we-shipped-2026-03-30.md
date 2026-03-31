@@ -42,6 +42,6 @@ We've identified the root cause to a connection problem with one of our infrastr
 
 ## Conclusion
 
-The app is in very early beta and we appreciate the efforts of every single one of our users and customers so we can improve it tirelessly every day with your feedback. You can give us feedback in Settings -> Share Feedback, or drop us an email at [mailto://hello@sanctum.so](hello@sanctum.so).
+The app is in very early beta and we appreciate the efforts of every single one of our users and customers so we can improve it tirelessly every day with your feedback. You can give us feedback in Settings -> Share Feedback, or drop us an email at [hello@sanctum.so](mailto:hello@sanctum.so).
 
 Thank you all for being part of Sanctum App!!
