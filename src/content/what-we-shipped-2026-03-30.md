@@ -9,7 +9,7 @@ Here's what we shipped last week:
 
 ![image of seeker season banner](https://sanctum.so/_next/image?url=%2Fblog%2Fimage-3.png&w=1200&q=100&dpl=dpl_6FYeqkc4tv6HEbgYzJbYUJQSMU3V)
 
-![](https://raw.githubusercontent.com/igneous-labs/sanctum-app-library/main/src/assets/seeker_season_screenshot.jpg)
+![](https://raw.githubusercontent.com/igneous-labs/sanctum-app-library/main/src/assets/seeker_season_screenshots.jpg)
 
 Seeker Season is here! Seeker Season is a special early-access adventure just for Solana Seeker users. As you deposit SOL, you'll level up Albus and unlock new cities as backgrounds in the app. These backgrounds are exclusive to this Seeker Season, so grab them while you can! Explore the world with Albus～
 
