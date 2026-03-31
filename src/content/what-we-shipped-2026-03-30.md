@@ -9,7 +9,7 @@ Here's what we shipped last week:
 
 ![image of seeker season banner](https://sanctum.so/_next/image?url=%2Fblog%2Fimage-3.png&w=1200&q=100&dpl=dpl_6FYeqkc4tv6HEbgYzJbYUJQSMU3V)
 
-(screenshot of Seeker Season)
+![](https://raw.githubusercontent.com/igneous-labs/sanctum-app-library/main/src/assets/seeker_season_screenshot.jpg)
 
 Seeker Season is here! Seeker Season is a special early-access adventure just for Solana Seeker users. As you deposit SOL, you'll level up Albus and unlock new cities as backgrounds in the app. These backgrounds are exclusive to this Seeker Season, so grab them while you can! Explore the world with Albus～
 
@@ -17,7 +17,7 @@ Seeker Season will run until 18th of May. We're looking to evolve and improve Se
 
 ## **A new and improved Library**
 
-(screenshot of Library)
+![](https://raw.githubusercontent.com/igneous-labs/sanctum-app-library/main/src/assets/library_screenshot.jpg)
 
 The Library (the section of the app you're reading this in) got a significant upgrade this week. Content is now organized into sections, there are new articles to read, and we've published two deep dives: one on how Daily Rewards work, and one on the Library itself. If you've ever had questions about how the app works, this is the place to start.
 
@@ -25,7 +25,7 @@ Oh, and you can expect one of these "What We Shipped" posts every week from now 
 
 ## A more enjoyable rewards receipt screen
 
-(screenshot)
+![](https://raw.githubusercontent.com/igneous-labs/sanctum-app-library/main/src/assets/rewards_earned_screenshot.jpg)
 
 Every day, the app pays out your rewards. The moment you claim them should make you feel good, and the old approach didn't quite do it justice. We've therefore implemented a new juicy rewards screen that should hopefully fire up your dopamine circuits! Let us know what you think.
 
